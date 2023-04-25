@@ -18,6 +18,6 @@ int main()
         if(i==50)cout<<"迭代是50步结果为："<<x<<endl;
 
     }
-
+	cout << "hello world\n";
     return 0;
 }
