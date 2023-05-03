@@ -11,6 +11,8 @@ pipeline {
                 sh '''
                 pwd
                 echo "create a new pipeline"
+                git checkout -b jk_branch
+		git push origin HEAD
                 '''
             }
         }
