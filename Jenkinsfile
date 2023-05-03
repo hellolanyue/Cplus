@@ -12,7 +12,7 @@ pipeline {
                 pwd
                 echo "create a new pipeline"
                 git checkout -b jk_branch
-		git push origin HEAD:jk_branch
+		git push origin HEAD
                 '''
             }
         }
