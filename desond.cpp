@@ -1,4 +1,4 @@
-#include<iostream>//ÀûÓÃÌÝ¶ÈÏÂ½µ·¨Çóy=x^2µÄ¼«Ð¡Öµµã
+#include<iostream>//ï¿½ï¿½ï¿½ï¿½ï¿½Ý¶ï¿½ï¿½Â½ï¿½ï¿½ï¿½ï¿½ï¿½y=x^2ï¿½Ä¼ï¿½Ð¡Öµï¿½ï¿½
 using namespace std;
 int main()
 {
@@ -11,21 +11,18 @@ int main()
     {
         dx=2*x;
         x=x-step*dx;
-        if(i==10)cout<<"µü´úÊÇ10²½½á¹ûÎª£º"<<x<<endl;
-        if(i==20)cout<<"µü´úÊÇ20²½½á¹ûÎª£º"<<x<<endl;
-        if(i==30)cout<<"µü´úÊÇ30²½½á¹ûÎª£º"<<x<<endl;
-        if(i==40)cout<<"µü´úÊÇ40²½½á¹ûÎª£º"<<x<<endl;
-        if(i==50)cout<<"µü´úÊÇ50²½½á¹ûÎª£º"<<x<<endl;
+        if(i==10)cout<<"ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½10ï¿½ï¿½ï¿½ï¿½ï¿½Îªï¿½ï¿½"<<x<<endl;
+        if(i==20)cout<<"ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½20ï¿½ï¿½ï¿½ï¿½ï¿½Îªï¿½ï¿½"<<x<<endl;
+        if(i==30)cout<<"ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½30ï¿½ï¿½ï¿½ï¿½ï¿½Îªï¿½ï¿½"<<x<<endl;
+        if(i==40)cout<<"ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½40ï¿½ï¿½ï¿½ï¿½ï¿½Îªï¿½ï¿½"<<x<<endl;
+        if(i==50)cout<<"ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½50ï¿½ï¿½ï¿½ï¿½ï¿½Îªï¿½ï¿½"<<x<<endl;
 
     }
 	cout << "hello world\n";
 	cut << "test for webhook\n";
 	# add a new line
 	
-<<<<<<< HEAD
 	add by master branch
-=======
 	add by to_merge branch
->>>>>>> to_merge
     return 0;
 }
