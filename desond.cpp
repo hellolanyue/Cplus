@@ -22,6 +22,10 @@ int main()
 	cut << "test for webhook\n";
 	# add a new line
 	
+<<<<<<< HEAD
 	add by master branch
+=======
+	add by to_merge branch
+>>>>>>> to_merge
     return 0;
 }
